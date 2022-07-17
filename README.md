@@ -12,7 +12,7 @@ I contemplated removing this repo all together, however, I think that it serves 
 I gained a deep understanding of OAuth2 from doing this practice work. I feel like putting in the effort to recreate the things that Passport.js does so quickly let me realize why the Passport Strategy does the things that it does. This also lets me peek behind the curtain and understand how authentication works in a way that protects it's users and clients from malicious attacks. 10/10 would code again.
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at these examples that I have in my own portfolio:
 
 **PlayerToo:** https://github.com/Hazelwize/player-two (This repo turned into this project)
 
